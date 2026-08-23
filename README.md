@@ -1,7 +1,7 @@
 # Python Basics for My Cybersecurity Journey
 
 ## About
-**Author:** Max
+**Author:** Md Samad Hasan
 <br>
 I am a B.Tech CSE Cybersecurity student learning Python as a foundation for my cybersecurity journey.
 
