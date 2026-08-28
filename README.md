@@ -17,27 +17,29 @@ This repository documents my progress in learning Python basics through lecture-
 
 ## What I Learned So Far
 
-| Lecture 1 | Lecture 2 |
-|---|---|
-| Python Character Set | String Basics |
-| Variables | Basic String Operations |
-| Strings | String Concatenation |
-| Rules for Identifiers | Length of String — `len()` |
-| Data Types / Types of Values | Common Escape Sequences |
-| Python Keywords | `\n`, `\t`, `\\`, `\'`, `\"` |
-| `print()` Function | Indexing |
-| Comments in Python | Negative Indexing |
-| Python Shortcuts | Slicing |
-| Operators | Negative Slicing |
-| → Arithmetic Operators | `str.endswith()` |
-| → Relational / Comparison Operators | `str.capitalize()` |
-| → Assignment Operators | `str.replace()` |
-| → Logical Operators | `str.find()` |
-| Type Conversion | `str.count()` |
-| `input()` Function | `if` |
-| | `elif` |
-| | `else` |
-| | Nested `if` |
+| Lecture 1 | Lecture 2 | Lecture 3 |
+|---|---|---|
+| Python Character Set | String Basics | Lists in Python |
+| Variables | Basic String Operations | String vs List |
+| Strings | String Concatenation | List Slicing |
+| Rules for Identifiers | Length of String — `len()` | Step Slicing |
+| Data Types / Types of Values | Common Escape Sequences | Reversing a List |
+| Python Keywords | `\n`, `\t`, `\\`, `\'`, `\"` | List Methods |
+| `print()` Function | Indexing | `list.append()` |
+| Comments in Python | Negative Indexing | `list.sort()` |
+| Python Shortcuts | Slicing | `list.reverse()` |
+| Operators | Negative Slicing | `list.insert()` |
+| → Arithmetic Operators | `str.endswith()` | `list.remove()` |
+| → Relational / Comparison Operators | `str.capitalize()` | `list.pop()` |
+| → Assignment Operators | `str.replace()` | `list.extend()` |
+| → Logical Operators | `str.find()` | `list.count()` |
+| Type Conversion | `str.count()` | `list.index()` |
+| `input()` Function | `if` | Tuples in Python |
+| | `elif` | Empty Tuple |
+| | `else` | Tuple Slicing |
+| | Nested `if` | Tuple Methods |
+| | | `tup.count()` |
+| | | `tup.index()` |
 
 ## Projects
 
